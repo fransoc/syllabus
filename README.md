@@ -5,23 +5,23 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**New York University**
 
-**College**
+**Steinhardt**
 
-**Unit**
+**Steinhardt Technology Services**
 
-## Course Number: Course Title
+## Course Innovation Grant
 
-**Semester Year**
+**2016**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Instructor: **Dr. FranSoc**   
+**Office**: remote/online  
+**Email**:  name@nyu.edu
 
-**Phone**:  
-**Office Hours**: Date, Time, Location  
+**Phone**:  999-999-9999
+**Office Hours**: all the days!
 
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
